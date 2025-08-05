@@ -15,28 +15,28 @@ AI-powered assistant that lets users input symptoms in natural language and retu
 ---
 
 ## 🔑 Features  
-- Multilingual symptom processing and NER  
-- Probabilistic ranking and urgency assessment  
-- Interactive follow-up dialogue for clarity  
-- Explainable outputs and safety disclaimers  
+- Multilingual symptom processing and NER
+- Probabilistic ranking and urgency assessment
+- Interactive follow-up dialogue for clarity
+- Explainable outputs and safety disclaimers
 - Educational, referral-first guidance—not diagnosis  
 
 ---
 
 ## Technology Used
--IBM cloud lite services
--Natural Language Processing (NLP)
--Retrieval Augmented Generation (RAG)
--IBM Granite Model
+- IBM cloud lite services
+- Natural Language Processing (NLP)
+- Retrieval Augmented Generation (RAG)
+- IBM Granite Model
 
 ---
 
 ## Future Scope
--Multilingual Research Support
--Voice-Activated Research Assistant
--Real-Time Collaboration Features in Medical Industry
--Research Gap and Novel Topic Identification
--Integration with Publishing Platforms
--AI-Assisted Medical Diagnosis
+- Multilingual Research Support
+- Voice-Activated Research Assistant
+- Real-Time Collaboration Features in Medical Industry
+- Research Gap and Novel Topic Identification
+- Integration with Publishing Platforms
+- AI-Assisted Medical Diagnosis
 
 
